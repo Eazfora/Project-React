@@ -1,1 +1,1 @@
-This repository is fill about mini projects with using react.
+This repository contains mini-projects using React.
